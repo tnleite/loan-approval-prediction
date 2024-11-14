@@ -2,10 +2,19 @@
 
 <img src="03-Recursos/imagem_capa.png">
 
-[![Python Version](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-3.11.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter Version](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.5.3-green?logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24.3-blue?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-blue?logo=matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-blue?logo=seaborn)](https://seaborn.pydata.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-1.10.1-blue?logo=scipy&logoColor=white)](https://scipy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.5.1-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2.1.2-blue?logo=xgboost)](https://xgboost.readthedocs.io/)
 [![Project Status](https://img.shields.io/badge/Status-Completed-green)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 
 ## 📝 Descrição do Projeto  
 Este projeto, desenvolvido no âmbito do módulo de **Machine Learning** do **Santander Coders 2024**, tem como objetivo aplicar técnicas de **análise exploratória de dados (EDA)** e **modelagem preditiva** para prever a aprovação ou negação de solicitações de empréstimo. Através de algoritmos de classificação, buscamos entender os fatores que influenciam a aprovação e identificar possíveis inadimplentes, ajudando instituições financeiras na gestão de risco.
